@@ -1,5 +1,5 @@
-import websiteImg1 from "../assets/scaa.jpeg";
-import websiteImg2 from "../assets/mp.jpeg";
+import websiteImg1 from "../scaa.jpeg";
+import websiteImg2 from "../mp.jpeg";
 
 export default function Projects() {
   const config = {
