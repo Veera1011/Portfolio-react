@@ -1,4 +1,4 @@
-import HeroImg from '../assets/Vep.jpg';
+import HeroImg from '../Vep.jpg';
 import { AiOutlineTwitter, AiOutlineFacebook, AiOutlineLinkedin } from "react-icons/ai";
 
 export default function Hero() {
