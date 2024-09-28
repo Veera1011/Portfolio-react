@@ -1,4 +1,4 @@
-import AboutImg from '../assets/about.png';
+import AboutImg from '../about.png';
 
 export default function About () {
     const config  = {
